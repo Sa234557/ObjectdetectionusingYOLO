@@ -1,4 +1,4 @@
-# ObjectdetectionusingYOLO
+# Object Detection using YOLO
 # Overview
 This project implements a real-time object detection system using the YOLO (You Only Look Once) model. The application utilizes a pre-trained YOLOv8 model to detect and classify objects in static images. The model is trained on the COCO (Common Objects in Context) dataset, enabling it to recognize 80 different object categories.
 
